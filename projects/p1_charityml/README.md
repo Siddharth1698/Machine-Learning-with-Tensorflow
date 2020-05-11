@@ -1,4 +1,4 @@
-# Data Scientist Nanodegree
+# ML Nanodegree
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
